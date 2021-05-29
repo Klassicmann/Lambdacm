@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18559607372",
+    "project_id": "lambda-7208c",
+    "storage_bucket": "lambda-7208c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18559607372:android:64bd6d5d06c9a812c58ae9",
+        "android_client_info": {
+          "package_name": "com.example.lambda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18559607372-g9osdgloosuhp13pbo58tovmbdgv6mq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoe7209_Cz5-BVdtp_1b8k0SQl4SYTrDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18559607372-g9osdgloosuhp13pbo58tovmbdgv6mq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
